@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshulahoti.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-lahoti)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshulahoti20@gmail.com)
-[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/himanshulahoti.dev/packages)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/himanshulahoti.is-a.dev/packages)
 
 </div>
 
