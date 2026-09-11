@@ -120,8 +120,6 @@ const himanshu = {
 
 </div>
 
-> Renders automatically once you add the snake workflow below to this repo (see setup note under Snake Animation Setup).
-
 <br/>
 
 ## 💭 Daily Inspiration
