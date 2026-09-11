@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Lahoti;Mobile+App+Engineer+%7C+iOS+%2B+Flutter;I+build+AI-powered+health+%26+vision+apps;Swift+%C2%B7+SwiftUI+%C2%B7+Flutter+%C2%B7+Firebase" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,100:22D3EE&height=220&section=header&text=Himanshu%20Lahoti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Engineer%20%7C%20iOS%20%2B%20Flutter&descAlignY=58&descSize=18" width="100%"/>
 
-### Crafting high-performance iOS, macOS & Flutter apps — from camera-based health diagnostics to offline-first AI organizers.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&lines=I+build+AI-powered+health+%26+vision+apps;Swift+%C2%B7+SwiftUI+%C2%B7+Flutter+%C2%B7+Firebase;10%2B+apps+shipped+to+App+Store+%26+Play+Store" alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/himanshulahoti20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-lahoti)
@@ -13,67 +15,72 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-I'm a **Mobile App Engineer** with **4+ years** of experience shipping production apps to the App Store and Play Store. I work primarily in **Swift, SwiftUI, and Flutter** — building everything from AI health diagnostics to file organizers — with a focus on clean architecture, performance, and details that delight.
+```js
+const himanshu = {
+  role: "Mobile App Engineer",
+  location: "Siliguri, West Bengal, India",
+  experience: "4+ years",
 
-- 🩺 Currently building **AI-powered camera-based vitals** (YVision, YHealth) using Binah AI SDK + AVFoundation
-- 📁 Also shipping **Smart Rename** — an offline-first, on-device AI file organizer for iOS & Flutter
-- 🏗️ Ship with MVC, MVVM & Clean Architecture — cut code duplication ~40% across 10+ projects
-- ⚙️ Cut release cycles **50%** with CI/CD across GitHub Actions, Jenkins & Xcode Cloud
-- 🚀 Reduced app launch time **~30%** via memory profiling & lazy loading
-- ✍️ Author of **4 open-source Flutter packages** on pub.dev · Mentor to 3+ junior engineers
-- 🗣️ English · Hindi · Bengali · Marwari
+  currentlyBuilding: [
+    "YVision — AI camera-based vitals (Binah AI + AVFoundation)",
+    "YHealth — HealthKit-synced metabolic health platform",
+    "Smart Rename — offline-first, on-device AI file organizer",
+  ],
+
+  coreStrengths: {
+    languages: ["Swift", "Objective-C", "Dart", "Python", "JavaScript"],
+    iosMacos: ["SwiftUI", "UIKit", "AppKit", "Combine", "HealthKit"],
+    crossPlatform: ["Flutter", "BLoC", "Riverpod", "Provider"],
+    architecture: ["MVVM", "Clean Architecture", "SOLID", "TDD"],
+    aiVision: ["Core ML", "ML Kit", "Binah AI SDK", "Signal Processing"],
+    backend: ["Firebase", "Firestore", "WebSockets", "Realm", "SQLite"],
+  },
+
+  impact: {
+    releaseCycle: "-50% via GitHub Actions / Jenkins / Xcode Cloud",
+    launchTime: "-30% via memory profiling & lazy loading",
+    codeReuse: "+40% via modular Clean Architecture",
+  },
+
+  funFacts: [
+    "Author of 4 open-source Flutter packages on pub.dev",
+    "Mentor to 3+ junior engineers",
+    "Speaks English, Hindi, Bengali & Marwari",
+  ],
+};
+```
 
 <br/>
 
-## 🧰 Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 **Languages**
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=flat-square&logo=apple&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/>
+<img src="https://skillicons.dev/icons?i=swift,dart,py,js,html,css" />
 
 **iOS & macOS**
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=ios&logoColor=white)
-![AppKit](https://img.shields.io/badge/AppKit-000000?style=flat-square&logo=macos&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core%20Data-6E44FF?style=flat-square)
-![HealthKit](https://img.shields.io/badge/HealthKit-FA3C4C?style=flat-square&logo=apple&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-7C5CFF?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=apple,xcode" /> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=ios&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/HealthKit-FA3C4C?style=for-the-badge&logo=apple&logoColor=white" height="48"/>
 
 **Cross-Platform**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter" /> <img src="https://img.shields.io/badge/BLoC-1D9C4D?style=for-the-badge" height="48"/> <img src="https://img.shields.io/badge/Riverpod-1FC2C2?style=for-the-badge" height="48"/>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-1D9C4D?style=flat-square)
-![Riverpod](https://img.shields.io/badge/Riverpod-1FC2C2?style=flat-square)
+**Backend, DB & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,sqlite" /> <img src="https://img.shields.io/badge/WebSockets-0D96F6?style=for-the-badge&logo=socketdotio&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" height="48"/>
 
 **AI / ML & Vision**
+<br/>
+<img src="https://img.shields.io/badge/Core%20ML-7C5CFF?style=for-the-badge&logo=apple&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/ML%20Kit-FBBF24?style=for-the-badge&logo=google&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/Binah%20AI%20SDK-22D3EE?style=for-the-badge" height="48"/>
 
-![Core ML](https://img.shields.io/badge/Core%20ML-7C5CFF?style=flat-square&logo=apple&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML%20Kit-FBBF24?style=flat-square&logo=google&logoColor=white)
-![Binah AI](https://img.shields.io/badge/Binah%20AI%20SDK-22D3EE?style=flat-square)
-
-**Backend & Storage**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![WebSockets](https://img.shields.io/badge/WebSockets-0D96F6?style=flat-square&logo=socketdotio&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
-
-**DevOps & Quality**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-3D2C7F?style=flat-square&logo=fastlane&logoColor=white)
-![Xcode Cloud](https://img.shields.io/badge/Xcode%20Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white)
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,figma" />
 
 </div>
 
@@ -92,14 +99,36 @@ I'm a **Mobile App Engineer** with **4+ years** of experience shipping productio
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=himanshulahoti20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=himanshulahoti20&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-eight-lyart.vercel.app/api?username=himanshulahoti20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-lyart.vercel.app/api/top-langs/?username=himanshulahoti20&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshulahoti20&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/himanshulahoti20/himanshulahoti20/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+> Renders automatically once you add the snake workflow below to this repo (see setup note under Snake Animation Setup).
+
+<br/>
+
+## 💭 Daily Inspiration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -113,8 +142,8 @@ I'm a **Mobile App Engineer** with **4+ years** of experience shipping productio
 [![Gmail](https://img.shields.io/badge/-himanshulahoti20%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:himanshulahoti20@gmail.com)
 [![pub.dev](https://img.shields.io/badge/-pub.dev%2Fhimanshulahoti.dev-0175C2?style=flat-square&logo=dart&logoColor=white)](https://pub.dev/publishers/himanshulahoti.dev/packages)
 
-</div>
+<sub>Siliguri, West Bengal, India · English · Hindi · Bengali · Marwari</sub>
 
-<div align="center">
-<sub>Siliguri, West Bengal, India · Speaks English, Hindi, Bengali & Marwari</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C5CFF&height=100&section=footer" width="100%"/>
+
 </div>
